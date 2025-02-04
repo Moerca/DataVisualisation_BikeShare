@@ -76,3 +76,4 @@ bikes.weather = bikes.weather.map(weather_dic)
 
 #writing dataframe to excel file
 bikes.to_excel('london_bikes_final.xlsx', sheet_name='Data')
+bikes.to_excel('C:/Users/49151/Documents/london_bikes_final.xlsx', sheet_name='Data')
